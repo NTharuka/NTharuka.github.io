@@ -57,7 +57,7 @@ h6 {
 
 .back-to-top:hover {
   background: #0678e3;
-  color: #fff;
+  color: rgb(19, 1, 1);
 }
 
 .back-to-top.active {
