@@ -76,7 +76,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: rgb(164, 188, 225);
 }
 
 #preloader:before {
@@ -140,7 +140,7 @@ h6 {
 @media (max-width: 991px) {
   #header {
     width: 300px;
-    background: #fff;
+    background: rgb(168, 174, 232);
     border-right: 1px solid #e6e9ec;
     left: -300px;
   }
@@ -1172,7 +1172,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
+  background: #afcae6;
   color: #45505b;
   font-size: 14px;
   text-align: center;
